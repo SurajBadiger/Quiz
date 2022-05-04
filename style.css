@@ -1,0 +1,50 @@
+.redbg{
+    background-color: red;
+    /* height: 10vh; */
+}
+
+.bluebg{
+    background-color: blue;
+    height: 10vh;
+}
+
+.greenbg{
+    background-color: green;
+    height: 10vh;
+}
+
+.yellowbg{
+    background-color: yellow;
+    height: 10vh;
+}
+
+.fillPage{
+    height: 100vh;
+    background-color: rgb(216, 214, 214);
+    padding-left: 25vw;
+    padding-top: 15vh;
+}
+
+.quiz-card{
+    height:70vh;
+    width:50vw;
+}
+
+.quiz-card-top{
+    height:20%
+    
+}
+
+.quiz-card-middle{
+    height:60%
+}
+
+.quiz-card-bottom{
+    height:20%
+}
+
+.align{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 1%;
+}
